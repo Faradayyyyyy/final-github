@@ -1,0 +1,3 @@
+nama : Viggo Siwy
+umur : 20
+pekerjaan : mahasiswa
